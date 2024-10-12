@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkid_d=self.webpackChunkkid_d||[]).push([[1527],{1527:(e,a,d)=>{e.exports=d.p+"static/media/szitak\xf6t\u0151.a3dee681ca0df7989e2d.m4a"}}]);

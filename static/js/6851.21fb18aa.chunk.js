@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkid_d=self.webpackChunkkid_d||[]).push([[6851],{6851:(a,e,s)=>{a.exports=s.p+"static/media/bichon.350f7d5aa62975f35643.m4a"}}]);

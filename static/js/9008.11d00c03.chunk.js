@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkid_d=self.webpackChunkkid_d||[]).push([[9008],{9008:(e,s,a)=>{e.exports=a.p+"static/media/bern\xe1thegyi.5f8f742abd5ff75568c7.m4a"}}]);

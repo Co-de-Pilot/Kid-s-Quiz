@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkid_d=self.webpackChunkkid_d||[]).push([[8148],{8148:(e,a,k)=>{e.exports=k.p+"static/media/k\xe1posztalepke.1993927a8e03a471f629.m4a"}}]);

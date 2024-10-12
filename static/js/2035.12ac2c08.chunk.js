@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkid_d=self.webpackChunkkid_d||[]).push([[2035],{2035:(e,s,a)=>{e.exports=a.p+"static/media/berni p\xe1sztor.f2cf6e1a8b61469560a9.m4a"}}]);

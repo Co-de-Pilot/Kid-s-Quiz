@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkid_d=self.webpackChunkkid_d||[]).push([[5700],{5700:(s,e,k)=>{s.exports=k.p+"static/media/k\xe9r\xe9sz.578b0190b6d6586f8715.m4a"}}]);

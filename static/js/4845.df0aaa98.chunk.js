@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkid_d=self.webpackChunkkid_d||[]).push([[4845],{4845:(s,e,k)=>{s.exports=k.p+"static/media/kauk\xe1zusi juh\xe1sz.f25dc38e185347b2886a.m4a"}}]);

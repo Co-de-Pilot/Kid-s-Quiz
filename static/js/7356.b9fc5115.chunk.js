@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkid_d=self.webpackChunkkid_d||[]).push([[7356],{7356:(e,d,s)=>{e.exports=s.p+"static/media/belga juh\xe1sz.7dc837a58e02bcd915d8.m4a"}}]);

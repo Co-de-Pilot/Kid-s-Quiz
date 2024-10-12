@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkid_d=self.webpackChunkkid_d||[]).push([[8688],{8688:(e,c,s)=>{e.exports=s.p+"static/media/border collie.1c3415bc93a46e92b495.m4a"}}]);

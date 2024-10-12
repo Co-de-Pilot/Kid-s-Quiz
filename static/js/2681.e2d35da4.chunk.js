@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkid_d=self.webpackChunkkid_d||[]).push([[2681],{2681:(e,s,c)=>{e.exports=c.p+"static/media/kecskedar\xe1zs.37a1f6dc30643bc0eec1.m4a"}}]);

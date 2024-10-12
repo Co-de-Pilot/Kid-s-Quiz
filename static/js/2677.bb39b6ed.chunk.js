@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkid_d=self.webpackChunkkid_d||[]).push([[2677],{2677:(e,c,k)=>{e.exports=k.p+"static/media/yorkie.619e2cea45bc33ce1b33.m4a"}}]);

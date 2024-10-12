@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkid_d=self.webpackChunkkid_d||[]).push([[1763],{1763:(e,s,a)=>{e.exports=a.p+"static/media/golden retriever.ea1866b4ef180b56f775.m4a"}}]);

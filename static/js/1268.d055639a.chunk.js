@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkid_d=self.webpackChunkkid_d||[]).push([[1268],{1268:(e,a,k)=>{e.exports=k.p+"static/media/farkasp\xf3k.9caef9ff28fbd220e287.m4a"}}]);

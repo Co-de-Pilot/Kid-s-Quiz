@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkid_d=self.webpackChunkkid_d||[]).push([[8452],{8452:(e,a,i)=>{e.exports=i.p+"static/media/akita inu.5e7d710616109955246e.m4a"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkid_d=self.webpackChunkkid_d||[]).push([[8394],{8394:(e,a,d)=>{e.exports=d.p+"static/media/dobermann.edb60a51798c922bad99.m4a"}}]);

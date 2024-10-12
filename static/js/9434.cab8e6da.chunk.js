@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkid_d=self.webpackChunkkid_d||[]).push([[9434],{9434:(e,a,s)=>{e.exports=s.p+"static/media/fox terrier.71eab31a67e9c2fbfa49.m4a"}}]);

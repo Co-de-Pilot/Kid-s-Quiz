@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkid_d=self.webpackChunkkid_d||[]).push([[4181],{4181:(e,k,s)=>{e.exports=s.p+"static/media/komondor.2bb5375c615e4ff8fec8.m4a"}}]);

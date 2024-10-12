@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkid_d=self.webpackChunkkid_d||[]).push([[7198],{7198:(e,s,k)=>{e.exports=k.p+"static/media/keresztesp\xf3k.99e2f4af7d5531d467f3.m4a"}}]);

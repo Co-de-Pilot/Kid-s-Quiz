@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkid_d=self.webpackChunkkid_d||[]).push([[7487],{7487:(e,a,s)=>{e.exports=s.p+"static/media/schnauzer.5b77a35e8a83245ee4fb.m4a"}}]);

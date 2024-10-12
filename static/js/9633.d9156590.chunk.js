@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkid_d=self.webpackChunkkid_d||[]).push([[9633],{9633:(s,a,e)=>{s.exports=e.p+"static/media/szarvasbog\xe1r.c072ba3194c01667d449.m4a"}}]);

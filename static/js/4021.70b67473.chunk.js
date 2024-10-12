@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkid_d=self.webpackChunkkid_d||[]).push([[4021],{4021:(e,a,d)=>{e.exports=d.p+"static/media/palotapincsi.db57b5e7c86edae16d36.m4a"}}]);

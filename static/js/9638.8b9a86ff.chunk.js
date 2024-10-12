@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkid_d=self.webpackChunkkid_d||[]).push([[9638],{9638:(e,s,a)=>{e.exports=a.p+"static/media/golden retr\xedver.205e2a48c6b109b59b45.m4a"}}]);

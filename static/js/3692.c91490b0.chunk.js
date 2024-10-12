@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkid_d=self.webpackChunkkid_d||[]).push([[3692],{3692:(e,b,s)=>{e.exports=s.p+"static/media/boxer.b8bfce3ba2752eb1350b.m4a"}}]);

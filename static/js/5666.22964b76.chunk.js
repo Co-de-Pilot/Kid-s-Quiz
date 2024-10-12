@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkid_d=self.webpackChunkkid_d||[]).push([[5666],{5666:(e,s,k)=>{e.exports=k.p+"static/media/kuvasz.f23e3894213ef25729c0.m4a"}}]);
