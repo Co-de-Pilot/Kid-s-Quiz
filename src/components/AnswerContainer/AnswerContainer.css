@@ -1,0 +1,10 @@
+.answercontainer {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 3%;
+}
+@media screen and (min-width: 992px) {
+  .answercontainer {
+    grid-template-columns: 1fr 1fr;
+  }
+}

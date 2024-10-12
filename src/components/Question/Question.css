@@ -1,0 +1,26 @@
+.question {
+  grid-area: QUESTION;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--color-lapis-lazuli);
+  background-color: whitesmoke;
+  margin: 0.5rem;
+  & p {
+    padding: 1rem;
+    font-size: 0.9rem;
+    font-weight: 600;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .question p {
+    font-size: 1.25rem;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .question p {
+    font-size: 1.9rem;
+  }
+}

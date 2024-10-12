@@ -1,0 +1,25 @@
+.question-play {
+  grid-area: PLAY;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /*   container-type: normal; */
+  background-color: whitesmoke;
+  margin: 0.5rem;
+  & button {
+    width: 7cqw;
+    & svg {
+      animation: flashing 2.5s var(--elastic-timing-function) infinite;
+    }
+  }
+}
+@keyframes flashing {
+  0%,
+  100% {
+    scale: 1;
+  }
+  50% {
+    scale: 1.1;
+    filter: drop-shadow(0 0 3px var(--color-orange));
+  }
+}

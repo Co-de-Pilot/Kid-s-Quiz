@@ -1,0 +1,41 @@
+.answer {
+  container-type: inline-size;
+  margin: 0.5rem;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.8s var(--bounce-timing-function);
+  &.selected {
+    scale: 1.08;
+  }
+  &.not-selected {
+    opacity: 0.3;
+  }
+  & img {
+    object-fit: cover;
+  }
+  & span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    color: var(--color-aquamarine);
+    opacity: 0;
+    font-size: 45cqw;
+    font-weight: 800;
+    background: transparent;
+    box-shadow: none;
+    border: none;
+    border-radius: none;
+    animation: none;
+    transition: 0.8s var(--bounce-timing-function);
+    &.incorrect-sign {
+      color: var(--color-red);
+    }
+    &.displayed {
+      opacity: 1;
+    }
+  }
+}

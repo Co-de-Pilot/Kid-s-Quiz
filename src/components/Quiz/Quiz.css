@@ -1,0 +1,26 @@
+header {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-areas:
+    "RESULT"
+    "INFOS"
+    "QUESTION";
+  gap: 3%;
+  margin-bottom: 3%;
+  & div {
+    grid-area: INFOS;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: "DATAS INFO PLAY";
+    gap: 3%;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  header {
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas:
+      "RESULT RESULT"
+      "INFOS QUESTION";
+  }
+}

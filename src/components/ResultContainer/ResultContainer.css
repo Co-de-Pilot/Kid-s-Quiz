@@ -1,0 +1,27 @@
+.result {
+  grid-area: RESULT;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 0;
+  background-color: whitesmoke;
+  padding: 1cqh;
+  margin: 0.5rem;
+  & span {
+    color: var(--color-orange);
+    font-size: 2cqw;
+    &.actual {
+      animation: flashing 2.5s var(--elastic-timing-function) infinite;
+    }
+    &.correct {
+      color: var(--color-aquamarine);
+      text-shadow: 0 0 3px var(--color-aquamarine);
+      scale: 1.1;
+    }
+    &.wrong {
+      color: var(--color-red);
+      text-shadow: 0 0 3px var(--color-red);
+      scale: 1.1;
+    }
+  }
+}

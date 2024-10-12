@@ -1,0 +1,14 @@
+.info {
+  grid-area: INFO;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: whitesmoke;
+  margin: 0.5rem;
+  & button {
+    width: 8cqw;
+    & svg {
+      animation: flashing 2.5s var(--elastic-timing-function) infinite;
+    }
+  }
+}
